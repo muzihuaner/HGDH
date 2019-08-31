@@ -4,3 +4,4 @@ HG导航是一个轻导航网站，提供一个清爽干净的上网入口。HG�
 更新：
 1.增加了秘迹搜索，神马AI搜索，Yandex搜索
 2.修复了部分bug
+演示地址：https://huangenet.github.io/HGDH/
